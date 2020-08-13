@@ -33,7 +33,8 @@ input {
 
 .signup_modal_head {
     width: 100%;
-    background: #2f889a45;
+    color: #706dc2;
+    background: #2008623b;
     padding: 30px;
     list-style: none;
     visibility: visible;
@@ -95,7 +96,7 @@ input {
 input[type="submit"] {
     padding: 16px 0;
     cursor: pointer;
-    background: #2f889a;
+    background: #271957;
     color: #FFF;
     font-weight: bold;
     border: none;
